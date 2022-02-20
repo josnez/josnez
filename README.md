@@ -1,4 +1,4 @@
-<p><img width="80%" src="./resources/header.png" /></a></p>
+<p><img width="100%" src="./resources/header.png" /></a></p>
 
 **About me**
 
